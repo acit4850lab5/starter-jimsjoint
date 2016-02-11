@@ -13,6 +13,7 @@ class Order extends Application {
 
     function __construct() {
         parent::__construct();
+		$this->load->model('orders');
     }
 
     // start a new order

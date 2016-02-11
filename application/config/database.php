@@ -65,9 +65,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
+	'hostname' => 'database.cooperw.xyz',
+	'username' => 'bcit',
+	'password' => 'bcitsql!',
 	'database' => 'comp4711',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
